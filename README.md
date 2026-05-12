@@ -1,16 +1,5 @@
 ```md
-<div align="center">
-
-# Hey 👋, I'm Vikas Kumar
-
-### 👨‍💻 MERN Stack Developer | 4+ Years Experience  
-### React.js • Next.js • Node.js • MongoDB • TypeScript
-
-Building scalable, high-performance web applications with modern technologies.
-
----
-
-</div>
+# Hey 👋, I'm Vikas Kumar ### 👨‍💻 MERN Stack Developer | 4+ Years Experience ### React.js • Next.js • Node.js • MongoDB • TypeScript Building scalable, scalable, and high-performance web applications.
 ```
 
 

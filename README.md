@@ -1,4 +1,18 @@
-# 👨‍💻 MERN Stack Developer | 4+ Years Experience
+```md
+<div align="center">
+
+# Hey 👋, I'm Vikas Kumar
+
+### 👨‍💻 MERN Stack Developer | 4+ Years Experience  
+### React.js • Next.js • Node.js • MongoDB • TypeScript
+
+Building scalable, high-performance web applications with modern technologies.
+
+---
+
+</div>
+```
+
 
 # 💫 About Me:
 I am a passionate and experienced MERN Stack Developer with 4+ years of professional experience in building scalable, secure, and high-performance web applications. I specialize in developing full-stack applications using modern JavaScript technologies and cloud-based solutions.<br><br>I have hands-on experience with React.js, Node.js, Express.js, MongoDB, Next.js, and strong knowledge of RESTful APIs, WebSockets, Firebase, and both SQL & NoSQL databases. I enjoy working in collaborative environments and delivering clean, maintainable, and user-focused solutions.
